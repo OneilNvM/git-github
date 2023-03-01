@@ -18,7 +18,8 @@ body {
     display: flex;
     grid-area: header;
     background-color: rgb(109, 14, 14);
-
+    justify-content: space-evenly;
+    padding: 2em;
 }
 
 .section {
