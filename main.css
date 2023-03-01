@@ -5,8 +5,11 @@
 
 body {
    display: grid;
-   grid-template-columns: ;
-   grid-template-rows: ;
+   grid-template-columns: 25% 25% 25% 25%;
+   grid-template-rows: auto;
    grid-template-areas: 
-   none;
+   "header header header header"
+   "section section section section"
+   "section section section section"
+   "footer footer footer footer";
 }
