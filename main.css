@@ -18,12 +18,14 @@ body {
     display: flex;
     grid-area: header;
     background-color: rgb(109, 14, 14);
+
 }
 
 .section {
     display: flex;
     grid-area: section;
     background-color: rgb(41, 41, 41);
+    height: 70vh;
 }
 
 .footer {
